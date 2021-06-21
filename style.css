@@ -1,0 +1,17 @@
+h1 {color: aquamarine}
+.menu{
+    background-color: chocolate ;
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap ;
+}
+.image{
+    background-image: url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+}
